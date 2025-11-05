@@ -1,0 +1,18 @@
+{
+  "name": "user-management-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for managing users, built with Express and enhanced using GitHub Copilot.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["api", "express", "user-management"],
+  "author": "Clayton Cooper",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "cors": "^2.8.5",
+    "uuid": "^9.0.1"
+  }
+}
